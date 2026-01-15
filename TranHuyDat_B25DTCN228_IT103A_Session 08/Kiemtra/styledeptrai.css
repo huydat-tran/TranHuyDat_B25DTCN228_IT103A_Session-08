@@ -20,7 +20,7 @@ header {
   background-color: #0ea5e9;
   text-align: center;
   padding: 30px;
-  border-radius: 10px
+  border-radius-bottom: 10px
 }
 .head_title {
   text-transform: capitalize;
@@ -79,4 +79,5 @@ body {
 .list {
   list-style-type: none;
 }
+
 
